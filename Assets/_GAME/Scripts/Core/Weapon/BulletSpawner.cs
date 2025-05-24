@@ -6,12 +6,13 @@ public class BulletSpawner : MonoBehaviour
 {
     public void CreateBullet(Vector3 BulletPosition,int _ownerID,int _opponentID,Material[] _bulletMaterial)
     {
-        GameObject bullet = Pooling.instance._Pull(gameObject.tag,GetPath(gameObject.tag));
+      /*  GameObject bullet = Pooling.instance._Pull(gameObject.tag,GetPath(gameObject.tag));
         bullet.transform.GetChild(0).gameObject.GetComponent<Renderer>().sharedMaterials = _bulletMaterial;
         bullet.transform.position = BulletPosition;
         Bullet _bullet = bullet.GetComponent<Bullet>();
         _bullet.SetID(_ownerID, _opponentID);
         _bullet.BulletMove();
+        */
     }
     string GetPath(string tag)
     {

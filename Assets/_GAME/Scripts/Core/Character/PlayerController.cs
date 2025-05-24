@@ -5,7 +5,6 @@ using UnityEngine.Events;
 
 public class PlayerController : Character, IInitializeVariables, IHit
 {
-    public static PlayerController instance;
     public FloatingJoystick _Joystick;
     [SerializeField] private GameObject _Cycle;
     [SerializeField] private GameObject Reticle;
@@ -14,6 +13,7 @@ public class PlayerController : Character, IInitializeVariables, IHit
     public int Level;
     public CharacterName KillerName;
     private IStatePlayer currentState;
+    public static PlayerController instance; //Singleton
     // Start is called before the first frame update
     void Start()
     {
@@ -126,7 +126,7 @@ public class PlayerController : Character, IInitializeVariables, IHit
         AttackSpeed = 10;
         MoveSpeed = 6f;
         weaponListCreate();                 //Khởi tạo danh sách vũ khí
-        CreateListOfWeaponMaterial();       //Khởi tạo danh sách Material của vũ khí
+      //  CreateListOfWeaponMaterial();       //Khởi tạo danh sách Material của vũ khí
         weaponSwitching(weaponType.Hammer, new weaponMaterialsType[] {weaponMaterialsType.Hammer_1});
         UpdatePlayerItem();
         IInitializeSingleton();
@@ -240,9 +240,9 @@ public class PlayerController : Character, IInitializeVariables, IHit
         }
         for (int i = 0; i < 25; i++)
         {
-            if (PlayerPrefs.GetInt("ClothesShop" + (ClothType)i) == 4)
+          //  if (PlayerPrefs.GetInt("ClothesShop" + (ClothType)i) == 4)
             {
-                ChangeClothes((clothesType)i);
+            //    ChangeClothes((clothesType)i);
             }
         }
     }

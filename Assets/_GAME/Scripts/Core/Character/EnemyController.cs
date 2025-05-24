@@ -21,7 +21,7 @@ public class EnemyController : Character, IInitializeVariables, IHit
     private void Awake()
     {
         enemyName = (CharacterName)Random.Range(0, 16);
-        ChangeClothes((clothesType)Random.Range(0, 24));
+        // ChangeClothes((clothesType)Random.Range(0, 24));
     }
     void Start()
     {
@@ -157,7 +157,7 @@ public class EnemyController : Character, IInitializeVariables, IHit
     IEnumerator EnemyDeath()
     {
         yield return new WaitForSeconds(2f);
-        Pooling.instance._Push(gameObject.tag, gameObject);
+      // object pooling 
     }
 
     public override void AddLevel()
@@ -176,10 +176,11 @@ public class EnemyController : Character, IInitializeVariables, IHit
             if (i == (int)_weaponType)
             {
                 Material[] CurrentWeaponMaterial = weaponArray[i].GetComponent<Renderer>().sharedMaterials;
-                Material temp = GetRandomWeaponMaterial(_weaponType);
+              //  Material temp = GetRandomWeaponMaterial(_weaponType);
                 for (int j = 0; j < weaponArray[i].GetComponent<Renderer>().sharedMaterials.Length; j++)
                 {
-                    CurrentWeaponMaterial[j] = temp;
+                    //CurrentWeaponMaterial[j] = temp ;
+                    // temp weaponArray[i].GetComponent<Renderer>().sharedMaterials[j] = _weapon.GetWeaponMaterial((weaponType)i, _weapon.GetWeaponMaterialType((weaponType)i));
                 }
                 weaponArray[i].GetComponent<Renderer>().sharedMaterials = CurrentWeaponMaterial;
                 weaponArray[i].SetActive(true);
@@ -190,7 +191,7 @@ public class EnemyController : Character, IInitializeVariables, IHit
             }
         }
     }
-    #region Get Random Weapon Material
+  /*  #region Get Random Weapon Material
     public Material GetRandomWeaponMaterial(weaponType _weaponType)
     {
         switch (_weaponType)
@@ -224,4 +225,5 @@ public class EnemyController : Character, IInitializeVariables, IHit
         }
     }
     #endregion
+    */
 }
