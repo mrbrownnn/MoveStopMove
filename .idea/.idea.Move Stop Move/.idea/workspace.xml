@@ -5,33 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="713ba204-ad94-4adc-ba26-0d3905cf4483" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Manager/GameManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Manager/GameManager.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Manager/Singleton.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Manager/Singleton.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Animation.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Animation/PlayerAnimation.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Animation/PlayerAnimation.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Animation/SetCharactorAnim.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Animation/SetCharactorAnim.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Move Stop Move/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Move Stop Move/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Character/Character.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Character/Character.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GamePlay.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Internship_BT4_MoveStopMove/3D/Weapon/Materials/Axe_1_Material.002.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Internship_BT4_MoveStopMove/3D/Weapon/Materials/Axe_1_Material.002.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Internship_BT4_MoveStopMove/Animator/Ani_CharOptimize.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Internship_BT4_MoveStopMove/Animator/Ani_CharOptimize.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GAME/Animation.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GAME/Animation.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GAME/Animation/Character.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GAME/Prefab/Character.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GAME/Prefab/Character/Character.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GAME/Prefab/Character/Character.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GAME/Prefab/Character_Optimieze2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GAME/Prefab/Character_Optimieze2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GAME/Prefab/Mesh Player/GameObject Variant.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GAME/Prefab/Mesh Player/GameObject Variant.prefab.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Character/EnemyController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Character/EnemyController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Character/EnemySpawner.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Character/EnemySpawner.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Character/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Character/PlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Manager/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Manager/GameManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Weapon/Attack.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Weapon/Attack.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Weapon/Bullet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Weapon/Bullet.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Weapon/BulletSpawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Weapon/BulletSpawner.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Pool/Bullet.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Pool/Bullet.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Pool/Guner.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Pool/Guner.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Pool/Pool.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Pooling.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Pool/Pool/GameUnit.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Pooling/GameUnit.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Pool/Pool/GameUnit.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Pooling/GameUnit.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Pool/Pool/MiniPool.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Pooling/MiniPool.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Pool/Pool/MiniPool.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Pooling/MiniPool.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Pool/Pool/ParticlePool.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Pooling/ParticlePool.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Pool/Pool/ParticlePool.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Pooling/ParticlePool.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Pool/Pool/PoolControler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Pooling/PoolControler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Pool/Pool/PoolControler.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Pooling/PoolControler.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Pool/Pool/SimplePool.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Pooling/SimplePool.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Pool/Pool/SimplePool.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Pooling/SimplePool.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Pool/Prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Pool/Prefab/Bullet_3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Pool/Prefab/Bullet_3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Pool/Prefab/Bullet_4.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Pool/Prefab/Bullet_4.prefab.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +46,36 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/b283a9b9192f4ef0998393692de6b95227800/ec/1d6c96ba/Animator.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.inputsystem@1.14.0/InputSystem/Devices/Joystick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/b283a9b9192f4ef0998393692de6b95227800/ec/1d6c96ba/Animator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Joystick Pack/Examples/JoystickSetterExample.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Animation/PlayerAnimation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Animation/SetCharactorAnim.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Character/Character.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Character/EnemyController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Character/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Character/StateEnemyAttack.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Character/StateEnemyIdle.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Character/StateEnemyPatrol.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Character/StatePlayerAttack.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Character/StatePlayerIdle.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Character/StatePlayerPatrol.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Interface/IHit.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Interface/IInitializeVariables.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Interface/IState.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Interface/IStatePlayer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Interface/ISubscribers.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Manager/CameraFollow.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Manager/GameManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Manager/Singleton.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Pooling/GameUnit.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Pooling/MiniPool.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Pooling/PoolControler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Pooling/SimplePool.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Weapon/Attack.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Weapon/Bullet.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Weapon/BulletSpawner.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Weapon/Weapon.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.inputsystem@1.14.0/InputSystem/Devices/Joystick.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -58,21 +87,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Attach to Unity Editor.Attach to Unity Editor.executor": "Debug",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Attach to Unity Editor.Attach to Unity Editor.executor&quot;: &quot;Debug&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.61f1\Editor\Unity.exe" />
@@ -112,7 +141,7 @@
     </configuration>
     <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
-      <option name="listenPortForConnections" value="false" />
+      <option name="listenPortForConnections" value="true" />
       <option name="pid" />
       <option name="projectPathOnTarget" />
       <option name="runtimes">
@@ -140,7 +169,9 @@
       <workItem from="1747916486738" duration="4593000" />
       <workItem from="1747978120163" duration="35000" />
       <workItem from="1748070751720" duration="2221000" />
-      <workItem from="1748087018463" duration="2609000" />
+      <workItem from="1748087018463" duration="8632000" />
+      <workItem from="1748156791371" duration="1606000" />
+      <workItem from="1750424820553" duration="1396000" />
     </task>
     <servers />
   </component>
@@ -173,7 +204,129 @@
           <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
           <option name="timeStamp" value="3" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Pooling/SimplePool.cs</url>
+          <line>64</line>
+          <properties documentPath="D:\PersonalProject\Move Stop Move\Assets\_GAME\Scripts\Core\Pooling\SimplePool.cs" containingFunctionPresentation="Constructor 'Pool'">
+            <startOffsets>
+              <option value="1552" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1553" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Pooling/SimplePool.cs</url>
+          <line>65</line>
+          <properties documentPath="D:\PersonalProject\Move Stop Move\Assets\_GAME\Scripts\Core\Pooling\SimplePool.cs" containingFunctionPresentation="Constructor 'Pool'">
+            <startOffsets>
+              <option value="1566" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1609" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Pooling/SimplePool.cs</url>
+          <line>66</line>
+          <properties documentPath="D:\PersonalProject\Move Stop Move\Assets\_GAME\Scripts\Core\Pooling\SimplePool.cs" containingFunctionPresentation="Constructor 'Pool'">
+            <startOffsets>
+              <option value="1622" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1639" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Pooling/SimplePool.cs</url>
+          <line>67</line>
+          <properties documentPath="D:\PersonalProject\Move Stop Move\Assets\_GAME\Scripts\Core\Pooling\SimplePool.cs" containingFunctionPresentation="Constructor 'Pool'">
+            <startOffsets>
+              <option value="1652" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1673" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Pooling/SimplePool.cs</url>
+          <line>68</line>
+          <properties documentPath="D:\PersonalProject\Move Stop Move\Assets\_GAME\Scripts\Core\Pooling\SimplePool.cs" containingFunctionPresentation="Constructor 'Pool'">
+            <startOffsets>
+              <option value="1686" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1706" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Pooling/SimplePool.cs</url>
+          <line>69</line>
+          <properties documentPath="D:\PersonalProject\Move Stop Move\Assets\_GAME\Scripts\Core\Pooling\SimplePool.cs" containingFunctionPresentation="Constructor 'Pool'">
+            <startOffsets>
+              <option value="1719" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1740" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Pooling/SimplePool.cs</url>
+          <line>70</line>
+          <properties documentPath="D:\PersonalProject\Move Stop Move\Assets\_GAME\Scripts\Core\Pooling\SimplePool.cs" containingFunctionPresentation="Constructor 'Pool'">
+            <startOffsets>
+              <option value="1753" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1767" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Pooling/SimplePool.cs</url>
+          <line>71</line>
+          <properties documentPath="D:\PersonalProject\Move Stop Move\Assets\_GAME\Scripts\Core\Pooling\SimplePool.cs" containingFunctionPresentation="Constructor 'Pool'">
+            <startOffsets>
+              <option value="1811" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1823" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/_GAME/Scripts/Core/Pooling/SimplePool.cs</url>
+          <line>72</line>
+          <properties documentPath="D:\PersonalProject\Move Stop Move\Assets\_GAME\Scripts\Core\Pooling\SimplePool.cs" containingFunctionPresentation="Constructor 'Pool'">
+            <startOffsets>
+              <option value="1855" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1856" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Type#UnityEngine.GameObject" memberName="activeInHierarchy" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b04755b98581fc4e894344daa907ce3, type: 3}
+  m_Name: CharacterClothes
+  m_EditorClassIdentifier: 
+  HeadPosition:
+  - {fileID: 86034660969172769, guid: c84e9b0700fea2f4bac7dc36de8d0190, type: 3}
+  - {fileID: 1518041452671387475, guid: 96c95fc35c3cd46419573cc858c956a8, type: 3}
+  - {fileID: 175807458862702985, guid: fd0760aaea2807646a900f4a6eaa3e18, type: 3}
+  - {fileID: 4862162399677368585, guid: b36062368b401324f85d81e758f65dd9, type: 3}
+  - {fileID: 6061638710537699538, guid: ff69a511a94f8454db3ffcef515de20a, type: 3}
+  - {fileID: 2183513114459144931, guid: 29a00c87325bde6429aeff45959ce323, type: 3}
+  - {fileID: 5116952234483130469, guid: 3fd34fbd555eac341871f01b7460a225, type: 3}
+  - {fileID: 1768446342890943145, guid: a7ec12253aef8dd4ea94d2210e40846e, type: 3}
+  - {fileID: 8546403991447139208, guid: 56fccefb7d51ecf4c94c8a41e7ea1f0c, type: 3}
+  - {fileID: 185717074368662886, guid: 8316e77610712f7439a489039bf37d2f, type: 3}
+  - {fileID: 7323998007440375226, guid: f9946e046582321448c77b098fdccf54, type: 3}
+  - {fileID: 379018231374373604, guid: a4aa6e802904a1e4eb1961d5b28b82db, type: 3}
+  - {fileID: 6263238028889958674, guid: 8eb519556a213dc43a395ade395142b8, type: 3}
+  BackPosition:
+  - {fileID: 8367614537498277701, guid: 93ec20baf7b6fc343b9e5a9145ec1a1a, type: 3}
+  - {fileID: 6432433090499543167, guid: 8bff2e680e3446c43925230e28f0834a, type: 3}
+  - {fileID: 1119052363214155146, guid: d247f286b00323c47aa4384e37c331a8, type: 3}
+  TailPosition:
+  - {fileID: 3667579309674527653, guid: c25261991ec0ffe47a1d8c98481b0dcb, type: 3}
+  LeftHandPosition:
+  - {fileID: 9058485476147986782, guid: 2903025937590964ea91907dc38b2461, type: 3}
+  - {fileID: 3321321931609408210, guid: f8fd4547585a6d34b896525a11f89e2d, type: 3}
+  - {fileID: 1659538849395483377, guid: 5837690064f02604a89d0c4976d7aaaf, type: 3}
+  - {fileID: 1477525838362962812, guid: 102839d2d45358149a8e982e74c4229f, type: 3}
+  PantsMaterials:
+  - {fileID: 2100000, guid: 047d33e347c796b47bed6bca4174eaf2, type: 2}
+  - {fileID: 2100000, guid: b0c6575fdf4ef164692207401396d209, type: 2}
+  - {fileID: 2100000, guid: a6a3ab49db4691f408898894999e9176, type: 2}
+  - {fileID: 2100000, guid: ce82a8a4f23024f44a44b9317664c6bf, type: 2}
+  - {fileID: 2100000, guid: d8f5bf3dff688cd4a99397590b723f56, type: 2}
+  - {fileID: 2100000, guid: f5dd7a79a0c87164588f8c8624ceb166, type: 2}
+  - {fileID: 2100000, guid: 79c4e0fc4c04bf94099fe834dbd7edc5, type: 2}
+  - {fileID: 2100000, guid: d69e433761bf69a428689229b8750a3f, type: 2}
+  - {fileID: 2100000, guid: 510baa9e6cf4bf545a3801e44bb1b1be, type: 2}
+  - {fileID: 2100000, guid: 42113f591205f76429f5b2e6c7e46b69, type: 2}
+  - {fileID: 2100000, guid: 0e447b7b114fd8644b02f004cb75eee7, type: 2}
+  - {fileID: 2100000, guid: 1e0c0f3ee3e8bca498614b6b1bf14e57, type: 2}
+  - {fileID: 2100000, guid: e58d282c6ccaf514e8f2ee75f5b544ac, type: 2}
+  SkinMaterials:
+  - {fileID: 2100000, guid: a77c13c9b19b9764db9f923c501bf2e0, type: 2}
+  - {fileID: 2100000, guid: f34778a928874c145bece1f8c59b7cd9, type: 2}
+  - {fileID: 2100000, guid: 606a94983a28f8846a0a2ad4dd6b2f96, type: 2}
+  - {fileID: 2100000, guid: 9af1457cc848dbd42bc71ce03ead626e, type: 2}
+  - {fileID: 2100000, guid: a08e30a8606cd6a43bac32df460bb730, type: 2}
+  - {fileID: 2100000, guid: fbe38319773afd64185ee3aa13d33ae2, type: 2}
+  - {fileID: 2100000, guid: 3edab4ebe760aa44492ead9ae143db8e, type: 2}
+  - {fileID: 2100000, guid: c456e7b547ab4ac489b534430dc23f96, type: 2}
+  - {fileID: 2100000, guid: 8754c6c4c04b2f34fa2d758e96b19aab, type: 2}
